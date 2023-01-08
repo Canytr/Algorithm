@@ -1,0 +1,10 @@
+^C:\GITHUB PROJECT\ALGORITHM\MAXIMUMVALUE\BUILD\CMAKEFILES\5621F16189E455C7461C28C2E3C3B498\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/GitHub Project/Algorithm/MaximumValue" "-BC:/GitHub Project/Algorithm/MaximumValue/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/GitHub Project/Algorithm/MaximumValue/build/MaximumValue.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

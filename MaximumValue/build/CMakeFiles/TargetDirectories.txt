@@ -1,0 +1,9 @@
+C:/GitHub Project/Algorithm/MaximumValue/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/GitHub Project/Algorithm/MaximumValue/build/CMakeFiles/Experimental.dir
+C:/GitHub Project/Algorithm/MaximumValue/build/CMakeFiles/Continuous.dir
+C:/GitHub Project/Algorithm/MaximumValue/build/CMakeFiles/Nightly.dir
+C:/GitHub Project/Algorithm/MaximumValue/build/CMakeFiles/MaximumValue.dir
+C:/GitHub Project/Algorithm/MaximumValue/build/CMakeFiles/PACKAGE.dir
+C:/GitHub Project/Algorithm/MaximumValue/build/CMakeFiles/RUN_TESTS.dir
+C:/GitHub Project/Algorithm/MaximumValue/build/CMakeFiles/ALL_BUILD.dir
+C:/GitHub Project/Algorithm/MaximumValue/build/CMakeFiles/ZERO_CHECK.dir
