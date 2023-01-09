@@ -1,0 +1,9 @@
+C:/GitHub Project/Algorithm/Sorting/build/CMakeFiles/Sorting.dir
+C:/GitHub Project/Algorithm/Sorting/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/GitHub Project/Algorithm/Sorting/build/CMakeFiles/Experimental.dir
+C:/GitHub Project/Algorithm/Sorting/build/CMakeFiles/Continuous.dir
+C:/GitHub Project/Algorithm/Sorting/build/CMakeFiles/Nightly.dir
+C:/GitHub Project/Algorithm/Sorting/build/CMakeFiles/PACKAGE.dir
+C:/GitHub Project/Algorithm/Sorting/build/CMakeFiles/RUN_TESTS.dir
+C:/GitHub Project/Algorithm/Sorting/build/CMakeFiles/ALL_BUILD.dir
+C:/GitHub Project/Algorithm/Sorting/build/CMakeFiles/ZERO_CHECK.dir
