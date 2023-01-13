@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub Project\Algorithm\TreeStructure\build\CMakeFiles\c88f4916e5ee8f51ccc99ef8241346ed\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\GitHub Project\Algorithm\TreeStructure\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\GitHub Project\Algorithm\TreeStructure\build\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B485953B-C6E7-37B2-81D2-51767E8DA188}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
